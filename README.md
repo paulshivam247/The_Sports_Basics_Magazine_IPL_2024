@@ -41,3 +41,5 @@ Conclusion
 This project is a blend of sports analytics, data visualization, and predictive modeling, making IPL 2024 more exciting for fans, analysts, and fantasy players. The findings contribute to Sports Basics Magazine, offering exclusive insights that go beyond traditional cricket reports.
 
 With every match, the data tells a new story—and this is just the beginning! 🚀🏏
+Linkedin: https://www.linkedin.com/in/shib-sankar-paul-290283101/recent-activity/all/
+
